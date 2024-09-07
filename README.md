@@ -18,11 +18,11 @@
 
 ## 4. Exploratory Data Analysis (EDA):
 
-#### a. Exploring and Dealing with Zeros: The dataset contains some zero values in columns where they shouldn't logically exist, such as glucose or blood pressure. These zeros are likely incorrect or missing values, and the project deals with them by removing or replacing them.
-#### b. Distribution of Features: The project examines the distribution of various features to understand their behavior and relationships. For instance, glucose and blood pressure follow a normal distribution, while other features like age and pregnancies are skewed.
-#### c. Exploring Correlations: A heatmap is used to visualize correlations between features. For example, higher glucose levels are strongly associated with diabetes, while other relationships like BMI and skin thickness or age and pregnancies are also explored.
-#### d. Exploring Outliers: Outliers are identified in the data using statistical methods and visualized using boxplots. The project plans to handle these outliers in the preprocessing step using robust scaling.
-#### e. Distribution of the Target Variable: The outcome variable (diabetes diagnosis) is moderately imbalanced, meaning there are more cases of non-diabetes than diabetes in the dataset.
+#### 4.1 Exploring and Dealing with Zeros: The dataset contains some zero values in columns where they shouldn't logically exist, such as glucose or blood pressure. These zeros are likely incorrect or missing values, and the project deals with them by removing or replacing them.
+#### 4.2 Distribution of Features: The project examines the distribution of various features to understand their behavior and relationships. For instance, glucose and blood pressure follow a normal distribution, while other features like age and pregnancies are skewed.
+#### 4.3 Exploring Correlations: A heatmap is used to visualize correlations between features. For example, higher glucose levels are strongly associated with diabetes, while other relationships like BMI and skin thickness or age and pregnancies are also explored.
+#### 4.4 Exploring Outliers: Outliers are identified in the data using statistical methods and visualized using boxplots. The project plans to handle these outliers in the preprocessing step using robust scaling.
+#### 4.5 Distribution of the Target Variable: The outcome variable (diabetes diagnosis) is moderately imbalanced, meaning there are more cases of non-diabetes than diabetes in the dataset.
 
 ## 5. Data Preprocessing:
 
