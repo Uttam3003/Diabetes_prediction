@@ -1,11 +1,11 @@
 # Diabetes_prediction
-This project involves predicting diabetes using a dataset collected by the National Institute of Diabetes and Digestive and Kidney Diseases. The data comes from a specific population, namely Pima Indian women aged 21 and older. The goal is to use various machine learning models to predict whether an individual has diabetes based on several health-related features.
+#### This project involves predicting diabetes using a dataset collected by the National Institute of Diabetes and Digestive and Kidney Diseases. The data comes from a specific population, namely Pima Indian women aged 21 and older. The goal is to use various machine learning models to predict whether an individual has diabetes based on several health-related features.
 
 # Project Steps:
 # Introduction:
 
 #### The dataset contains health information about Pima Indian women, including variables such as the number of pregnancies, glucose levels, blood pressure, BMI (Body Mass Index), and more.
-### The project will explore the data, clean it, and apply various machine learning models to predict the presence of diabetes.
+#### The project will explore the data, clean it, and apply various machine learning models to predict the presence of diabetes.
 
 ## Importing Required Libraries:
 
